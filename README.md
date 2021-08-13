@@ -31,3 +31,19 @@ iOS Apps Portfolio
 ![Main](https://user-images.githubusercontent.com/76659585/128649249-240f0258-3922-4dc0-a2c3-e0aab8937c10.png)
 ## [Touchdown Website Presentation](https://cristianogaliano.github.io/Touchdown/)
 ## [Touchdown GitHub Repository](https://github.com/cristianogaliano/Touchdown)
+
+
+
+
+
+#
+
+
+
+## Devote ToDo List App wioth Widget Launcher
+![Main](https://user-images.githubusercontent.com/76659585/129290616-e73fb697-e00d-49b2-8d35-ed73b87dbef5.png)
+## [Devote Website Presentation](https://cristianogaliano.github.io/Devote-ToDoListApp)
+## [Devote GitHub Repository](https://github.com/cristianogaliano/Devote-ToDoListApp)
+
+
+
