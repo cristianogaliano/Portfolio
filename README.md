@@ -55,7 +55,7 @@ iOS Apps Portfolio
 
 ## Notes watchOS Standalone Apple Watch app
 ![Main](https://user-images.githubusercontent.com/76659585/129322587-d8035ae2-cc2d-4c69-b630-5ecab3871104.png)
-## [Notes Website Presentation]()
-## [Notes GitHub Repository]()
+## [Notes Website Presentation](https://cristianogaliano.github.io/Notes-watchOs)
+## [Notes GitHub Repository](https://github.com/cristianogaliano/Notes-watchOs)
 
 
