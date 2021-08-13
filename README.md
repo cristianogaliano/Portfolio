@@ -40,10 +40,22 @@ iOS Apps Portfolio
 
 
 
-## Devote ToDo List App wioth Widget Launcher
+## Devote ToDo List App with Widget Launcher
 ![Main](https://user-images.githubusercontent.com/76659585/129290616-e73fb697-e00d-49b2-8d35-ed73b87dbef5.png)
 ## [Devote Website Presentation](https://cristianogaliano.github.io/Devote-ToDoListApp)
 ## [Devote GitHub Repository](https://github.com/cristianogaliano/Devote-ToDoListApp)
 
+
+
+
+
+#
+
+
+
+## Notes watchOS Standalone Apple Watch app
+![Main](https://user-images.githubusercontent.com/76659585/129322587-d8035ae2-cc2d-4c69-b630-5ecab3871104.png)
+## [Notes Website Presentation]()
+## [Notes GitHub Repository]()
 
 
