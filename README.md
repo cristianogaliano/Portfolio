@@ -59,3 +59,16 @@ iOS Apps Portfolio
 ## [Notes GitHub Repository](https://github.com/cristianogaliano/Notes-watchOS)
 
 
+
+
+
+
+
+#
+
+
+
+## Avocados is a iOS Recipe built in SwiftUI
+![Main](https://user-images.githubusercontent.com/76659585/129481169-ef6bd010-b0aa-4ac9-a781-0e94ae2ea062.png)
+## [Notes Website Presentation](https://cristianogaliano.github.io/Avocados-Recipes)
+## [Notes GitHub Repository](https://github.com/cristianogaliano/Avocados-Recipes)
