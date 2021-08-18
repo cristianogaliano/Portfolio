@@ -90,3 +90,17 @@ iOS Apps Portfolio
 
 
 
+
+
+#
+
+
+
+## TodoApp iOS SwiftUI InteractiveApp
+![Main](https://user-images.githubusercontent.com/76659585/129851563-c31c5a46-cd34-4ab1-8e4c-b35aef50f81f.png)
+## [Slot Machine Website Presentation](https://cristianogaliano.github.io/TodoApp/)
+## [TodoApp GitHub Repository](https://github.com/cristianogaliano/TodoApp)
+
+
+
+ 
