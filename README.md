@@ -15,7 +15,7 @@ iOS Apps Portfolio
 
 
 
-## Africa is a small african animals enciplodeia, built with SwiftUI2 using Animations and MapKit
+## Africa is a small african animals enciplopedia, built with SwiftUI2 using Animations and MapKit
 ![AfricaAppMockup](https://user-images.githubusercontent.com/76659585/128451076-bea5c0a8-ad0c-4763-bb14-2a52c863a331.png)
 ## [Africa Website Presentation](https://cristianogaliano.github.io/Africa-SwiftUI2/)
 ## [Africa GitHub Repository](https://github.com/cristianogaliano/Africa-SwiftUI2)
